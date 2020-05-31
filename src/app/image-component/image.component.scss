@@ -1,0 +1,18 @@
+.col-md-2 {
+    border: 1px dashed #1976d2;
+}
+.withOutImage {
+    height: 150px;
+}
+.withImage {
+    height: 100%;
+    width: 100%;
+    background-size: cover;   
+    i {
+    font-size: 30px;
+    color: #1976d2;
+    background: white;
+    position: absolute;
+    right: 0;
+    }
+}

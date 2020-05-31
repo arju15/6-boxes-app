@@ -1,0 +1,23 @@
+<div class="main mt-5">
+  <div class="row">
+<div class="col-md-2 p-1" *ngFor="let i of [0,1,2,3,4,5]">
+    <div class="withOutImage" appDragDrop
+         *ngIf="!fileArray[i]" 
+         (click)="fileInput.click()"
+         (onFileDropped)="onFileUpload($event, i)">
+         <input class="file-upload-input" 
+                type='file' 
+                #fileInput 
+                (change)="onFileUpload($event.target.files, i);" 
+                accept="image/*" 
+                style="visibility: hidden;" />
+      <div class="text-center">
+        <span>Upload <br />or <br /> Drop Image here</span>
+      </div>
+    </div>
+    <div class="withImage" *ngIf="fileArray[i]" [style.background-image]="'url(' + fileArray[i] + ')'">
+      <i class="fa fa-trash"  (click)="removeImage(i)" aria-hidden="true" ></i>
+    </div>
+</div>
+</div>
+</div>
