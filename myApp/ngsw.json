@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590959964056,
+  "index": "https://arju15.github.io/6-boxes-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://arju15.github.io/6-boxes-app/favicon.ico",
+        "https://arju15.github.io/6-boxes-app/index.html",
+        "https://arju15.github.io/6-boxes-app/main-es2015.40963213215089b2b8ac.js",
+        "https://arju15.github.io/6-boxes-app/main-es5.40963213215089b2b8ac.js",
+        "https://arju15.github.io/6-boxes-app/manifest.webmanifest",
+        "https://arju15.github.io/6-boxes-app/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://arju15.github.io/6-boxes-app/polyfills-es5.1fd9b76218eca8053895.js",
+        "https://arju15.github.io/6-boxes-app/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://arju15.github.io/6-boxes-app/runtime-es5.1eba213af0b233498d9d.js",
+        "https://arju15.github.io/6-boxes-app/scripts.ee4f320b38980099ca4a.js",
+        "https://arju15.github.io/6-boxes-app/styles.d473ee87369bb9c81171.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-128x128.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-144x144.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-152x152.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-192x192.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-384x384.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-512x512.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-72x72.png",
+        "https://arju15.github.io/6-boxes-app/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://arju15.github.io/6-boxes-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://arju15.github.io/6-boxes-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://arju15.github.io/6-boxes-app/index.html": "f5570b4e0c2d0699e17b137652b015215164a5c3",
+    "https://arju15.github.io/6-boxes-app/main-es2015.40963213215089b2b8ac.js": "cd06d510fd706fa95ade7614c52fc10e8066ea6a",
+    "https://arju15.github.io/6-boxes-app/main-es5.40963213215089b2b8ac.js": "4303a97453bf12a1160607a8c53895f093565b3e",
+    "https://arju15.github.io/6-boxes-app/manifest.webmanifest": "640461c4fc2ce570ee2ca5164807ebf70333e7f5",
+    "https://arju15.github.io/6-boxes-app/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://arju15.github.io/6-boxes-app/polyfills-es5.1fd9b76218eca8053895.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "https://arju15.github.io/6-boxes-app/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://arju15.github.io/6-boxes-app/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://arju15.github.io/6-boxes-app/scripts.ee4f320b38980099ca4a.js": "a880bd46e1384406cbeb8d0b469f21c107cadeb9",
+    "https://arju15.github.io/6-boxes-app/styles.d473ee87369bb9c81171.css": "d201c9e132d8c2f73e039d216a9ef09d4da482a4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
